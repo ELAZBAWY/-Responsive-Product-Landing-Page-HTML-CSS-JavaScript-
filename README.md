@@ -18,9 +18,6 @@ This template is perfect for showcasing products and services with a clear call-
 ## Live Demo
 [Click Here to View](https://elazbawy.github.io/-Responsive-Product-Landing-Page-HTML-CSS-JavaScript-/)
 
-## Screenshots
-(Feel free to add a screenshot of your project here)
-
 ## Installation
 Clone the repository and open `index.html` in your browser:
 ```bash
